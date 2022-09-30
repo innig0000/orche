@@ -62,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1664498563248</updated>
       <workItem from="1664498564845" duration="4950000" />
-      <workItem from="1664517271900" duration="355000" />
+      <workItem from="1664517271900" duration="688000" />
     </task>
     <task id="LOCAL-00001" summary="concerto">
       <created>1664499192640</created>
@@ -113,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664509585473</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="vcs">
+      <created>1664517642954</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1664517642954</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,7 +137,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="cello" />
                       </list>
                     </value>
                   </entry>

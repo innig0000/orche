@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb5d0806-4a8e-4777-96d3-e2f2d6e12d0c" name="Changes" comment="" />
+    <list default="true" id="bb5d0806-4a8e-4777-96d3-e2f2d6e12d0c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1664498563248</updated>
       <workItem from="1664498564845" duration="4950000" />
-      <workItem from="1664517271900" duration="688000" />
+      <workItem from="1664517271900" duration="2041000" />
     </task>
     <task id="LOCAL-00001" summary="concerto">
       <created>1664499192640</created>
@@ -120,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664517642954</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="all merge">
+      <created>1664518180128</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1664518180128</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,7 +146,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="cello" />
+                        <option value="origin/main" />
                       </list>
                     </value>
                   </entry>
@@ -181,6 +190,7 @@
     <MESSAGE value="new string cell" />
     <MESSAGE value="solo piece" />
     <MESSAGE value="vcs" />
-    <option name="LAST_COMMIT_MESSAGE" value="vcs" />
+    <MESSAGE value="all merge" />
+    <option name="LAST_COMMIT_MESSAGE" value="all merge" />
   </component>
 </project>
